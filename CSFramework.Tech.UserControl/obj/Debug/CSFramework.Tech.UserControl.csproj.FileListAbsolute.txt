@@ -1,0 +1,24 @@
+D:\My SourceCode\CSharp\Tech2010 Full Code\Job3-Type-Reflaction-UserCtrl\Debug\CSFramework.Tech.UserControl.exe
+D:\My SourceCode\CSharp\Tech2010 Full Code\Job3-Type-Reflaction-UserCtrl\Debug\CSFramework.Tech.UserControl.pdb
+D:\My SourceCode\CSharp\Tech2010 Full Code\Job3-Type-Reflaction-UserCtrl\CSFramework.Tech.UserControl\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\Tech2010 Full Code\Job3-Type-Reflaction-UserCtrl\CSFramework.Tech.UserControl\obj\Debug\CSFramework.Tech.UserControl.frmTester.resources
+D:\My SourceCode\CSharp\Tech2010 Full Code\Job3-Type-Reflaction-UserCtrl\CSFramework.Tech.UserControl\obj\Debug\CSFramework.Tech.UserControl.Properties.Resources.resources
+D:\My SourceCode\CSharp\Tech2010 Full Code\Job3-Type-Reflaction-UserCtrl\CSFramework.Tech.UserControl\obj\Debug\CSFramework.Tech.UserControl.csproj.GenerateResource.Cache
+D:\My SourceCode\CSharp\Tech2010 Full Code\Job3-Type-Reflaction-UserCtrl\CSFramework.Tech.UserControl\obj\Debug\CSFramework.Tech.UserControl.exe
+D:\My SourceCode\CSharp\Tech2010 Full Code\Job3-Type-Reflaction-UserCtrl\CSFramework.Tech.UserControl\obj\Debug\CSFramework.Tech.UserControl.pdb
+D:\My SourceCode\CSharp\Tech2010 Full Code\UserCtrl\CSFramework.Tech.UserControl\obj\Debug\CSFramework.Tech.UserControl.exe
+D:\My SourceCode\CSharp\Tech2010 Full Code\UserCtrl\CSFramework.Tech.UserControl\obj\Debug\CSFramework.Tech.UserControl.pdb
+D:\My SourceCode\CSharp\Tech2010 Full Code\UserCtrl\Debug\CSFramework.Tech.UserControl.exe
+D:\My SourceCode\CSharp\Tech2010 Full Code\UserCtrl\Debug\CSFramework.Tech.UserControl.pdb
+D:\My SourceCode\CSharp\Tech2010 Full Code\UserCtrl\CSFramework.Tech.UserControl\obj\Debug\ResolveAssemblyReference.cache
+D:\My SourceCode\CSharp\Tech2010 Full Code\UserCtrl\CSFramework.Tech.UserControl\obj\Debug\CSFramework.Tech.UserControl.frmTester.resources
+D:\My SourceCode\CSharp\Tech2010 Full Code\UserCtrl\CSFramework.Tech.UserControl\obj\Debug\CSFramework.Tech.UserControl.Properties.Resources.resources
+D:\My SourceCode\CSharp\Tech2010 Full Code\UserCtrl\CSFramework.Tech.UserControl\obj\Debug\CSFramework.Tech.UserControl.csproj.GenerateResource.Cache
+D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\CSFramework.Tech.UserControl\obj\Debug\CSFramework.Tech.UserControl.exe
+D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\CSFramework.Tech.UserControl\obj\Debug\CSFramework.Tech.UserControl.pdb
+D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Debug\CSFramework.Tech.UserControl.exe
+D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Debug\CSFramework.Tech.UserControl.pdb
+D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\CSFramework.Tech.UserControl\obj\Debug\CSFramework.Tech.UserControl.csprojResolveAssemblyReference.cache
+D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\CSFramework.Tech.UserControl\obj\Debug\CSFramework.Tech.UserControl.frmTester.resources
+D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\CSFramework.Tech.UserControl\obj\Debug\CSFramework.Tech.UserControl.Properties.Resources.resources
+D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\CSFramework.Tech.UserControl\obj\Debug\CSFramework.Tech.UserControl.csproj.GenerateResource.Cache

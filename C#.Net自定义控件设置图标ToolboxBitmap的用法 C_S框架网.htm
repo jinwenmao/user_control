@@ -1,0 +1,126 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>C#.Net自定义控件设置图标ToolboxBitmap的用法|C/S框架网</title>
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+    <meta content='孙中吕(Jonny Sun)' name='author' />
+    <meta content='珠海市喜鹊信息技术有限公司' name='copyright' />
+    <meta content='C/S框架网致力于打造功能强大的C/S系统快速开发框架，专注研发基于C#.NET程序语言搭建的C/S系统开发平台,Winform开发框架,Winform开发平台,提供行业管理软件如ERP/MES/MRP/HIS/CRM/MIS/POS等系统技术支持及解决方案。C/S框架网是珠海市喜鹊信息技术有限公司旗下核心品牌网站。' name='description' />
+    <meta content='C/S开发框架,C/S开发平台,C#开发框架,C#开发平台,Winform开发框架,Winform开发平台,C#.Net开发框架,C#.Net开发平台,CS开发平台,CS开发框架,C#开源框架' name='keywords' />
+    <meta content='MSHTML 6.00.6000.16788' name='GENERATOR' />
+    <meta name='MSSmartTagsPreventParsing' content='TRUE' />
+    <meta http-equiv='MSThemeCompatible' content='Yes' />
+    <link rel="shortcut icon" href="http://www.csframework.com/images/logo.ico" type="image/x-icon" />
+    <link rel="icon" href="http://www.csframework.com/images/logo.ico" type="image/x-icon" />
+    <link href="http://www.csframework.com/css/css-article.css" rel="stylesheet" type="text/css" />
+    <link href="http://www.csframework.com/css/css.css" rel="stylesheet" type="text/css" />
+    <link href="http://www.csframework.com/css/css-menu.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="http://www.csframework.com/js/common.js"></script>
+    <script type="text/javascript" src="http://www.csframework.com/js/common-article.js"></script>
+</head>
+<body>
+    <center>
+        <div class="page_header">
+            <script type="text/javascript" src="http://www.csframework.com/js/title.js"></script>
+            <script type="text/javascript" src="http://www.csframework.com/js/common.js">visitArticle(1259);</script>
+        </div>
+        <div class="page_container">
+            <div class="share">
+                 <script type="text/javascript" src="http://www.csframework.com/js/our-slogan.js"></script>
+            </div>
+            <div class="ptop">&nbsp;</div>
+            <div class="p_header_bk">
+                <div id="navframe">
+                    <script type="text/javascript" src="http://www.csframework.com/js/menu.js"></script>
+                </div>
+                <div class="location">
+                    <div>
+                        <img alt="" src="http://www.csframework.com/images/nav_icon.gif" />
+                        <a href="http://www.csframework.com/default.htm" class="LinkBlue">C/S框架网</a>&nbsp;|&nbsp;<a href="http://www.csframework.com/category-list-code.htm" class="LinkBlue">C#源码库</a>&nbsp;|&nbsp;C#.Net自定义控件设置图标ToolboxBitmap的用法
+                    </div>
+                </div>
+            </div>
+            <div class="content_back" style="height: auto;">
+                <div class="article-content">
+                    <table>
+                        <tr>
+                            <td>
+                                <div class="article-left">
+                                    <div><script type="text/javascript" src="http://www.csframework.com/js/article-left.js"></script></div>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="article-body">
+                                    <div class="title">
+                                        C#.Net自定义控件设置图标ToolboxBitmap的用法
+                                    </div>
+                                    <div class="author">
+                                        <span>作者:C/S原创</span>&nbsp;&nbsp;<span>发布日期:2011-03-31 17:54:14</span>
+                                    </div>
+                                    <div class="body">
+                                        <font size="5"><b>C#.Net自定义控件设置图标ToolboxBitmap的用法</b></font><br><br><br>设置图标比较简单：<br><font color="#ff0000"><br>1. 设计一个16X16的BMP文件，256色<br><br>2. BMP文件命名必须与控件类名一致,如下图ucButton.bmp<br><br>3. 图标和控件必须在同一个命名空间</font><br><br><br><img alt="" src="http://www.csframework.com/upload/image/9f6184937c454e72ac10c3d6d4b91251.png"><br><br>以下任一方式都可以设置图标． 在IDE编辑环境下可能显示不正常（蓝色齿轮), 手工加载控件的DLL一切正常．<br><br><br><div class="codearea"><font color="#006400">//指定绝对路径，此方法不可取</font><br>[ToolboxBitmap(@"D:\xxx.bmp")]<br><br><font color="#006400">//显示.Net的Panel控件图标</font><br>[ToolboxBitmap(<span class="codekeyword">typeof</span>(Panel))]<br><br><font color="#006400">//显示自定义图标</font><br>[ToolboxBitmap(<span class="codekeyword">typeof</span>(ucButton), "ucButton.bmp")]<br><br><span class="codecomment">// 来源:www.CSFramework.com, C/S结构框架学习网</span><br><br></div><br><br><img alt="贴图图片" src="http://www.csframework.com/upload/image/eda3792d7199446c87eb5599091dcdbb.png"><br><br><br><br><br><br><br><br>
+                                    </div>
+                                    <div id="download-file">
+                                        <div id="div-download-free" class='download_reg'>   <img alt='点击下载附件' src='http://www.csframework.com/images/rar32.gif'/>  <a href='http://www.csframework.com/download.aspx?validation=true&archive=00ce025DB5AA0D18ACA0F826A93BCA303F76B469797E74785772E06F142DAE3140CE55537E147B70B68816&category=a2620f00D2BC3C68A142CC&guid=ce36a2B14C033847E099FE&failedCallBack=&ft=1&FTAL=136BD6A5559F452405237CE7B6B0DA8C9D381B53AF1D0452' class='LinkBlue'>点击下载附件</a>   <span class='failue'>(如下载失败,请<a href='mailto:service@csframework.com' class='LinkBlue'>邮件</a>通知我们寄回给您，或QQ:23404761留言．)</span></div>
+                                    </div>
+                                    <div class="favo">
+                                        相关资料：<a class="LinkBlue" href="http://www.csframework.com/cs.htm">什么是C/S结构？</a>&nbsp;|&nbsp;<a class="LinkBlue" href="http://www.csframework.com/cs-kernel.htm">C/S框架核心组成部分</a>&nbsp;|&nbsp;<a class="LinkBlue" href="http://www.csframework.com/deploy-webservice.htm">C/S框架-WebService部署图</a>&nbsp;|&nbsp;<a class="LinkBlue" href="http://www.csframework.com/cs-auth-show.htm">C/S框架-权限管理</a>&nbsp;|&nbsp;<a class="LinkBlue" href="http://www.csframework.com/cs-framework-3.0.htm">C/S结构系统框架 - 3.0高级版介绍</a>&nbsp;|&nbsp;<a class="LinkBlue" href="http://www.csframework.com/cs-framework-intro.htm">C/S结构系统框架 - 功能介绍</a>&nbsp;|&nbsp;<a class="LinkBlue" href="http://www.csframework.com/product-list.htm">C/S结构系统框架 - 产品列表</a>&nbsp;|&nbsp;<a class="LinkBlue" href="http://www.csframework.com/cs-show.htm">C/S结构系统框架 - 应用展示(图)</a>&nbsp;|&nbsp;
+                                    </div>
+                                    <div class="ref_links">
+                                        
+                                    </div>                                    
+                                    <div class="article-navigator">
+                                        <a id="a_P" class="page" href="http://www.csframework.com/archive/2/arc-2-20110331-1257.htm">上一篇</a> <a id="a_N" class="page"
+                                            href="http://www.csframework.com/archive/2/arc-2-20110331-1260.htm">下一篇</a>
+                                    </div>
+                                    <div class="adv_main">
+                                        <div><script type="text/javascript">
+  <!--
+google_ad_client = "ca-pub-8738789943208929";
+/* 468x60 */
+google_ad_slot = "5998965388";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+                                    </div>  
+                                </div>
+                            </td>
+                            <td>
+                                <div class="article-right">
+                                    <div><script type="text/javascript" src="http://www.csframework.com/js/article-right.js"></script></div>
+<div class="adv_style01"><script type="text/javascript">
+  <!--
+google_ad_client = "ca-pub-8738789943208929";
+/* 120x600文字 */
+google_ad_slot = "3654594137";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+                                    
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="public_img">
+                </div>
+            </div>
+            <div class="page_footer_outer">
+                <script type="text/javascript" src="http://www.csframework.com/js/footer.js"></script>
+            </div>
+            <div class="pbtm">
+            </div>
+            <div class="bk_foot_bk">
+            </div>
+        </div>
+    </center>
+</body>
+</html>

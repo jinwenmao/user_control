@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CSFramework.Tech.UserControl">
+</Property><Property Name="Solution File" Value="D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\CSFramework.Tech.UserControl.sln">
+</Property><Property Name="User Options File" Value="D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\CSFramework.Tech.UserControl.suo">
+</Property><Property Name="Date" Value="2019年4月21日">
+</Property><Property Name="Time" Value="20:51">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CSFramework.Tech.UserControl.sln" Description="File successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\CSFramework.Tech.UserControl.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CSFramework.Tech.UserControl.suo" Description="File successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\CSFramework.Tech.UserControl.suo">
+</Event><Event ErrorLevel="0" Project="MyControls" Source="MyControls\MyControls.csproj" Description="Project file successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\MyControls\MyControls.csproj">
+</Event><Event ErrorLevel="0" Project="MyControls" Source="MyControls\MyControls.csproj.user" Description="Project user file successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\MyControls\MyControls.csproj.user">
+</Event><Event ErrorLevel="0" Project="MyControls" Source="MyControls\MyControl.cs" Description="File successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\MyControls\MyControl.cs">
+</Event><Event ErrorLevel="0" Project="MyControls" Source="MyControls\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\MyControls\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MyControls" Source="MyControls\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\MyControls\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MyControls" Source="MyControls\ucButton.cs" Description="File successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\MyControls\ucButton.cs">
+</Event><Event ErrorLevel="0" Project="MyControls" Source="MyControls\ucButton.Designer.cs" Description="File successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\MyControls\ucButton.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MyControls" Source="MyControls\Properties\Resources.resx" Description="File successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\MyControls\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MyControls" Source="MyControls\FosedTag.jpg" Description="File successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\MyControls\FosedTag.jpg">
+</Event><Event ErrorLevel="0" Project="MyControls" Source="MyControls\GrayTag.bmp" Description="File successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\MyControls\GrayTag.bmp">
+</Event><Event ErrorLevel="0" Project="MyControls" Source="MyControls\ucButton.bmp" Description="File successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\MyControls\ucButton.bmp">
+</Event><Event ErrorLevel="0" Project="MyControls" Source="MyControls\MyControl.bmp" Description="File successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\MyControls\MyControl.bmp">
+</Event><Event ErrorLevel="0" Project="MyControls" Source="MyControls\MyControl.resx" Description="File successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\MyControls\MyControl.resx">
+</Event><Event ErrorLevel="0" Project="MyControls" Source="MyControls\MyControls.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MyControls" Source="MyControls\MyControls.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CSFramework.Tech.UserControl" Source="CSFramework.Tech.UserControl\CSFramework.Tech.UserControl.csproj" Description="Project file successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\CSFramework.Tech.UserControl\CSFramework.Tech.UserControl.csproj">
+</Event><Event ErrorLevel="0" Project="CSFramework.Tech.UserControl" Source="CSFramework.Tech.UserControl\frmTester.cs" Description="File successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\CSFramework.Tech.UserControl\frmTester.cs">
+</Event><Event ErrorLevel="0" Project="CSFramework.Tech.UserControl" Source="CSFramework.Tech.UserControl\frmTester.Designer.cs" Description="File successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\CSFramework.Tech.UserControl\frmTester.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CSFramework.Tech.UserControl" Source="CSFramework.Tech.UserControl\Program.cs" Description="File successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\CSFramework.Tech.UserControl\Program.cs">
+</Event><Event ErrorLevel="0" Project="CSFramework.Tech.UserControl" Source="CSFramework.Tech.UserControl\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\CSFramework.Tech.UserControl\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CSFramework.Tech.UserControl" Source="CSFramework.Tech.UserControl\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\CSFramework.Tech.UserControl\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CSFramework.Tech.UserControl" Source="CSFramework.Tech.UserControl\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\CSFramework.Tech.UserControl\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CSFramework.Tech.UserControl" Source="CSFramework.Tech.UserControl\Properties\Settings.settings" Description="File successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\CSFramework.Tech.UserControl\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="CSFramework.Tech.UserControl" Source="CSFramework.Tech.UserControl\frmTester.resx" Description="File successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\CSFramework.Tech.UserControl\frmTester.resx">
+</Event><Event ErrorLevel="0" Project="CSFramework.Tech.UserControl" Source="CSFramework.Tech.UserControl\Properties\Resources.resx" Description="File successfully backed up as D:\work_git\76b5f424eae543ae818d5d5fc5b19d0d\Backup\CSFramework.Tech.UserControl\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CSFramework.Tech.UserControl" Source="CSFramework.Tech.UserControl\CSFramework.Tech.UserControl.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CSFramework.Tech.UserControl" Source="CSFramework.Tech.UserControl\CSFramework.Tech.UserControl.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CSFramework.Tech.UserControl.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CSFramework.Tech.UserControl.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyControls" Source="MyControls\MyControls.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="CSFramework.Tech.UserControl" Source="CSFramework.Tech.UserControl\CSFramework.Tech.UserControl.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
